@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Tracker Updater", "Task Tracker Updater\Task Tracker Updater.csproj", "{6B324E9F-1550-4B4E-93D2-2F803FF15E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B324E9F-1550-4B4E-93D2-2F803FF15E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B324E9F-1550-4B4E-93D2-2F803FF15E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B324E9F-1550-4B4E-93D2-2F803FF15E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B324E9F-1550-4B4E-93D2-2F803FF15E28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {947FD13D-BC93-41C2-AD75-9D4EF341D04C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task Tracker Updater": {
+      "commandName": "Project",
+      "commandLineArgs": "\"USAJOBS\\Release 8.3\\8.3.1-Odin\" \"USAJOBS\" \"10/12/2019\" \"10/20/2019\""
+    }
+  }
+}
